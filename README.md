@@ -54,11 +54,10 @@
   </a>
 </p> -->
 
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Harxxki" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harxxki&layout=compact&theme=tokyonight" /> -->
-<div>
-  
+<div> -->
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Harxxki&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### Languages and Tools:
