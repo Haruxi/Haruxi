@@ -18,8 +18,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/harukimori/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/harukimori#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/harufilm#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/harufilm#gh-dark-mode-only)
+<!-- [![website](./img/instagram-light.svg)](https://instagram.com/harufilm#gh-light-mode-only) -->
+<!-- [![website](./img/instagram-dark.svg)](https://instagram.com/harufilm#gh-dark-mode-only) -->
 
 <!-- <p align="left">
   <a href="https://github.com/Harxxki/Harxxki/">
